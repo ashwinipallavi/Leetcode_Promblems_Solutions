@@ -1,8 +1,6 @@
 # Leetcode_Promblems_Solutions
 Daily leetcode problem solve 
 
-# Leetcode_Problems_Solutions
-
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange)
 ![GitHub](https://img.shields.io/badge/Status-Active-brightgreen)
