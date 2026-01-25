@@ -1,4 +1,4 @@
-# Leetcode_Promblems_Solutions
+# Leetcode_Problems_Solutions
 Daily leetcode problem solve 
 
 ![Python](https://img.shields.io/badge/Language-Python-blue)
